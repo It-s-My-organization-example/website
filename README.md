@@ -1,4 +1,4 @@
 # My-website
 This is my website
-this also and update
+updating locally
 editing in update-readme branch
